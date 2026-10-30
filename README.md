@@ -1,2 +1,2 @@
 # apnacollegerepo
-this ia my first repository
+this is my first repository
